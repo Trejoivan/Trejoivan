@@ -3,9 +3,9 @@
 
 # Feel free to connect with me
  <p align="center">
-  <button href="www.linkedin.com/in/ivan-trejo-dev](https://www.linkedin.com/in/ivan-trejo-dev/)">
+  <a href="www.linkedin.com/in/ivan-trejo-dev](https://www.linkedin.com/in/ivan-trejo-dev/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </button>
+  </a>
 </p>
  
  # Technologies (sorted by experience)
