@@ -9,7 +9,6 @@
 </p>
 
  <h1>Currently studying</h1>
- 
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=gcp,java,graphql" />
