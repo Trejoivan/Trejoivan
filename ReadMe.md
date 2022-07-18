@@ -3,7 +3,7 @@
 
 # Feel free to connect with me
  <p align="center">
-  <a href="www.linkedin.com/in/ivan-trejo-dev](https://www.linkedin.com/in/ivan-trejo-dev/)">
+  <a href="www.linkedin.com/in/ivan-trejo-dev](https://www.linkedin.com/in/ivan-trejo-dev">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
