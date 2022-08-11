@@ -9,7 +9,7 @@
 </p>
  
  # Technologies (sorted by experience)
- <p align="center"> 
+ <p align="center" gap="100pc"> 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,react,html,css,bootstrap,tailwind,vscode,github,postgres" />
     <img src="https://skillicons.dev/icons?i=aws,bash,codepen,netlify,heroku,ps,figma,git,mysql,nodejs" />
