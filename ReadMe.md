@@ -7,6 +7,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
 </p>
+
  
  # Technologies (sorted by experience)
  <p align="center" > 
